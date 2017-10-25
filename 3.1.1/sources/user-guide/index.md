@@ -55,9 +55,16 @@ Each time when you do enrol/authentication corresponding logs are saved into log
 
 If there are some logs - button Clear is enabled and you can clear all logs clicked on this button.
 
+If click Edit button then logs table will be editable and you can select any log(s) you want by click on check box on left. On bottom you can notice Select All button, you can use it to select all available logs.
+
 ![success message](../img/user-guide/no_logs.jpg) 
 ![success message](../img/user-guide/logs_screen.jpg) 
 ![success message](../img/user-guide/clear_logs_message.jpg)
+![success message](../img/user-guide/editing_logs.jpg)
+
+Also you can use swipe left to open options - View and Delete Log
+
+![success message](../img/user-guide/editing_logs2.jpg)
 
 Log has information about enrol/authentication process and you can check where, when and who did login. If you click on button with arrow on right side of some logs new information view will be shown.
 
