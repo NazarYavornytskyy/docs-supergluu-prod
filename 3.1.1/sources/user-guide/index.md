@@ -82,7 +82,12 @@ Information screen contains data about:
 
 This tab contains all available keys for each Gluu server. Key is unique file which is generated during enrol and application is using for authentication device on server side. If you delete key for some server then you should do enrol again with new key.
 
-![no keys](../img/user-guide/no_keys.jpg)   ![keys screen](../img/user-guide/keys_screen.jpg)
+![no keys](../img/user-guide/no_keys.jpg)   
+![keys screen](../img/user-guide/keys_screen.jpg)
+
+If swipe left you will se next options: view key, rename and delete key
+
+![keys swipe](../img/user-guide/delete_key.jpg)
 
 You can change key's name to new one, for this just hold on key for 3 seconds, after you will see message Do you want to change key's name? If approve you can enter new name, button "return" will save new name.
 
@@ -94,7 +99,7 @@ Also you can delete key from list. For this you have two ways:
 
 2) Click on key, new information screen will appears, on top right click button Delete in confirm dialog press Yes.
 
-![delete key](../img/user-guide/delete_key.jpg)
+![delete key](../img/user-guide/delete_key_alert.jpg)
 
 To see information about key just tap on key and new information dialog will be shown. On this screen you can see all information about key and using button "Delete" remove key from device.
 
