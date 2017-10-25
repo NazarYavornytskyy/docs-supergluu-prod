@@ -85,7 +85,7 @@ This tab contains all available keys for each Gluu server. Key is unique file wh
 ![no keys](../img/user-guide/no_keys.jpg)   
 ![keys screen](../img/user-guide/keys_screen.jpg)
 
-If swipe left you will se next options: view key, rename and delete key
+If swipe left you will see next options: view key, rename and delete key
 
 ![keys swipe](../img/user-guide/delete_key.jpg)
 
@@ -112,8 +112,12 @@ If during first load application you didn't setup Pin code you can do it in this
 
 You can change count of failed attempts entering Pin code, range is 5-10 attempts. If you enter wrong Pin code the same times as this count application will be locked for next 10 minutes and you should wait to have possibility enter Pin code again.
 
-![settings](../img/user-guide/settings_1.jpg)
+Each setting page allows you to change: Pincode settings, TouchID (fingerprint), Trust all (SSL). And go to User guide and Privacy policy, check current application version:
 
+![settings](../img/user-guide/settings_1.jpg)
+![settings](../img/user-guide/settings_pincode.jpg)
+![settings](../img/user-guide/settings_touch.jpg)
+![settings](../img/user-guide/settings_ssl.jpg)
 
 ## Push Notifications
 
